@@ -6,7 +6,7 @@ The official portfolio of a true Rat King disciple. A responsive, framework-free
 
 ---
 
-## 🚀 Website Walkthrough
+## Website Walkthrough
 
 This portfolio is built without heavy UI frameworks—just straight semantic HTML5, modern CSS Grid/Flexbox layouts, and lightweight JavaScript for custom interactions.
 
